@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+}
+body {
+  background-color: #ddd;
+  min-height: 102%;
+  margin: 0;
+}
+img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height:100px;
+}
+/* wrapper */
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+/*.has-dropdown input[type="checkbox"] {
+  display: none;
+}
+
+.has-dropdown input[type="checkbox"]:checked ~ .dropdown {
+  display: block;
+}
+
+/* dropdown basic */
+/*.dropdown {
+  display: block;
+  position: absolute;
+  z-index: 9999;
+}*/
+
+/* dropdown optional styling */
+/*.dropdown li:hover {
+  background-color: #eee;
+  cursor: pointer;
+}*/
